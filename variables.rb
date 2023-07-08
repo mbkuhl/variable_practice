@@ -13,3 +13,12 @@ benjamin_franklin = 100.00
 i_think = "true"
 i_am = "true"
 i_will_always_be = "false"
+
+default_greeting = "howdy"
+default_farewell = "see ya later alligator"
+default_ice_breaker = "party trick idk"
+
+puts default_greeting
+puts one
+puts abraham_lincoln
+puts i_am
